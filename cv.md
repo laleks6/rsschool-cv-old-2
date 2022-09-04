@@ -1,7 +1,6 @@
 # Lomanov Aleksandr 
 [![avatar](/img/avatar_oni_3.jpg)](https://www.youtube.com/watch?v=o6YeFTwehBg&list=PLjECPJrdKj24zzZOfmD8RQfHIq78HAUUZ)
 
----
 ## Contacts
 Address: Moscow, Russia
 Git: [laleks6](https://github.com/laleks6)
