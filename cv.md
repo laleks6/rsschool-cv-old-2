@@ -20,6 +20,7 @@ I have passed stage0, now i will try to reach the very end
 * CSS
 * Javascript
 * Figma
+
 ---
 ## Code example
 ```
