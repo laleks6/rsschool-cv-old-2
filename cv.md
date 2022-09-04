@@ -2,10 +2,10 @@
 [![avatar](/img/avatar_oni_3.jpg)](https://www.youtube.com/watch?v=o6YeFTwehBg&list=PLjECPJrdKj24zzZOfmD8RQfHIq78HAUUZ)
 
 ## Contacts
-  Address: Moscow, Russia
-  Git: [laleks6](https://github.com/laleks6)
-  Discord: laleks#0503
-  Telegram: @laleks6
+Address: Moscow, Russia<br/>
+Git: [laleks6](https://github.com/laleks6)<br/>
+Discord: laleks#0503<br/>
+Telegram: @laleks6<br/>
 
 ## About me
 I have passed stage0, now i will try to reach the very end
@@ -28,5 +28,5 @@ function fakeBin(x){
 National University of Science and Technology MISiS
 
 ## Languages
-  Russian - **native**
-  English - **A2**
+  Russian - **native**<br/>
+  English - **A2**<br/>
