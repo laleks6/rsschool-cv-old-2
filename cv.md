@@ -8,11 +8,9 @@ Git: [laleks6](https://github.com/laleks6)
 Discord: laleks#0503
 Telegram: @laleks6
 
----
 ## About me
 I have passed stage0, now i will try to reach the very end
 
----
 ## Skills
 
 **Basic level:**
@@ -21,18 +19,15 @@ I have passed stage0, now i will try to reach the very end
 * Javascript
 * Figma
 
----
 ## Code example
 ```
 function fakeBin(x){
   return x.split('').map((num) => num < 5 ? 0 : 1).join('')
 }
 ```
----
 ## Education
 National University of Science and Technology MISiS
 
----
 ## Languages
 Russian - **native**
 English - **A2**
